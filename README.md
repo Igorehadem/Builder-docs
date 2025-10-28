@@ -1,5 +1,4 @@
-# -builder-docs# Builder Docs
-
+# builder-docs
 Unified documentation for GitHub, Base, and Farcaster integrations.
 
 ## Sections
